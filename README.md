@@ -140,8 +140,9 @@ node --check meal_planner/static/app.js
 
 GitHub Actions tests the backend and builds/smoke-tests the amd64 container.
 Actual Home Assistant installation and aarch64 execution still require testing
-on those hosts. The initial version was tested natively on macOS; Docker was
-not available on the development Mac.
+on those hosts. The initial amd64 build and container smoke test
+[passed in GitHub Actions](https://github.com/duarte-hub/mealroom-home-assistant/actions/runs/40450568206).
+Docker was not available on the development Mac.
 
 ## Scope
 

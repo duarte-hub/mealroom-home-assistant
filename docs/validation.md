@@ -36,13 +36,24 @@ The visible preview was approximately 671 pixels wide, exercising the responsive
 bottom navigation and two-column cards. Other viewport sizes were not browser
 verified during this pass.
 
+## Docker verified in GitHub Actions
+
+[The initial verification run](https://github.com/duarte-hub/mealroom-home-assistant/actions/runs/40450568206)
+completed successfully for source commit
+`750fb772ed8d16fe94154edd02aefc75a7bd6953`.
+
+- All 16 tests passed on Linux with Python 3.13.
+- The production amd64 Docker image built successfully.
+- Its entrypoint started the application with a persistent Docker volume.
+- HTTP health and application-state requests succeeded, returning 24 recipes.
+- The application process ran as UID 1000 and created its SQLite database in
+  the persistent volume.
+
 ## Not yet verified
 
-- A real Docker build: Docker is not installed on the development Mac.
 - Installation or execution inside the user's Home Assistant OS instance.
 - Actual aarch64 runtime behaviour, despite dependency-wheel availability.
-- The GitHub Actions workflow: prepared but not run until the source is published.
 
-The included CI builds and smoke-tests the amd64 production image. A Home
-Assistant installation is still the final integration check. Native tests do
-not substitute for these container and Supervisor checks.
+A Home Assistant installation is still the final Supervisor/Ingress integration
+check. Docker is not installed on the development Mac; the container build and
+smoke test ran on GitHub's Linux runner.
