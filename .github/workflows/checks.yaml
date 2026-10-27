@@ -1,0 +1,38 @@
+name: Verify Mealroom
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - run: pip install -r meal_planner/requirements.txt PyYAML==6.0.3
+      - run: python -W error::ResourceWarning -m unittest discover -s tests -v
+      - run: node --check meal_planner/static/app.js
+      - run: python tests/check_package.py
+      - name: Build amd64 container
+        run: docker build --build-arg BUILD_ARCH=amd64 -t mealroom:test meal_planner
+      - name: Smoke-test production entrypoint and persistent volume
+        run: |
+          docker volume create mealroom-test
+          docker run -d --name mealroom-check -p 127.0.0.1:8099:8099 -v mealroom-test:/data mealroom:test
+          for attempt in $(seq 1 30); do
+            if curl -fsS http://127.0.0.1:8099/healthz; then break; fi
+            sleep 1
+          done
+          curl -fsS http://127.0.0.1:8099/api/state > /tmp/state.json
+          python -c "import json; assert len(json.load(open('/tmp/state.json'))['recipes']) == 24"
+          docker exec mealroom-check python -c "from pathlib import Path; assert next(line for line in Path('/proc/1/status').read_text().splitlines() if line.startswith('Uid:')).split()[1] == '1000'; assert Path('/data/mealroom.sqlite3').is_file()"
+          docker logs mealroom-check
+      - name: Container logs
+        if: failure()
+        run: docker logs mealroom-check || true
+      - name: Stop test container
+        if: always()
+        run: docker rm -f mealroom-check || true

@@ -1,0 +1,1606 @@
+[
+  {
+    "id": "lemon-chicken",
+    "title": "Lemon chicken & crispy potatoes",
+    "description": "A bright, one-tray dinner with tender chicken, golden potatoes and green beans.",
+    "servings": 2,
+    "minutes": 40,
+    "cost": 480,
+    "protein_type": "chicken",
+    "art": "tray",
+    "tags": [
+      "High protein",
+      "One tray"
+    ],
+    "allergens": [],
+    "equipment": [
+      "oven"
+    ],
+    "ingredients": [
+      {
+        "name": "Chicken thighs",
+        "quantity": 400,
+        "unit": "g",
+        "category": "Meat & fish"
+      },
+      {
+        "name": "Potatoes",
+        "quantity": 500,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Green beans",
+        "quantity": 200,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Lemon",
+        "quantity": 1,
+        "unit": "each",
+        "category": "Produce"
+      },
+      {
+        "name": "Olive oil",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "Garlic",
+        "quantity": 2,
+        "unit": "clove",
+        "category": "Produce"
+      }
+    ],
+    "steps": [
+      "Heat the oven to 210°C. Chop the potatoes into small pieces and toss with half the oil on a tray. Roast for 15 minutes.",
+      "Coat the chicken with the remaining oil, crushed garlic and lemon juice. Add to the tray and roast for 20 minutes, or until the chicken is cooked through.",
+      "Add the green beans for the final 8 minutes. Serve with lemon wedges and the tray juices."
+    ]
+  },
+  {
+    "id": "chickpea-spinach-curry",
+    "title": "Chickpea & spinach curry",
+    "description": "A warming coconut curry, built from affordable cupboard staples.",
+    "servings": 2,
+    "minutes": 25,
+    "cost": 280,
+    "protein_type": "vegan",
+    "art": "curry",
+    "tags": [
+      "Plant based",
+      "Budget friendly"
+    ],
+    "allergens": [],
+    "equipment": [
+      "hob"
+    ],
+    "ingredients": [
+      {
+        "name": "Chickpeas",
+        "quantity": 400,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Coconut milk",
+        "quantity": 200,
+        "unit": "ml",
+        "category": "Pantry"
+      },
+      {
+        "name": "Baby spinach",
+        "quantity": 100,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Chopped tomatoes",
+        "quantity": 400,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Rice",
+        "quantity": 150,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Curry powder",
+        "quantity": 2,
+        "unit": "tsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "Onion",
+        "quantity": 1,
+        "unit": "each",
+        "category": "Produce"
+      }
+    ],
+    "steps": [
+      "Cook the rice according to the packet. Dice the onion and soften in a little oil for 5 minutes.",
+      "Stir in the curry powder, drained chickpeas, tomatoes and coconut milk. Simmer for 12 minutes.",
+      "Fold in the spinach until wilted. Season to taste and spoon over the rice."
+    ]
+  },
+  {
+    "id": "roast-tomato-pasta",
+    "title": "Roast tomato & ricotta pasta",
+    "description": "Sweet tomatoes, creamy ricotta and a generous handful of basil.",
+    "servings": 2,
+    "minutes": 30,
+    "cost": 340,
+    "protein_type": "vegetarian",
+    "art": "pasta",
+    "tags": [
+      "Comfort food",
+      "Vegetarian"
+    ],
+    "allergens": [
+      "gluten",
+      "milk"
+    ],
+    "equipment": [
+      "hob",
+      "oven"
+    ],
+    "ingredients": [
+      {
+        "name": "Pasta",
+        "quantity": 180,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Cherry tomatoes",
+        "quantity": 300,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Ricotta",
+        "quantity": 150,
+        "unit": "g",
+        "category": "Chilled"
+      },
+      {
+        "name": "Basil",
+        "quantity": 10,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Garlic",
+        "quantity": 2,
+        "unit": "clove",
+        "category": "Produce"
+      },
+      {
+        "name": "Olive oil",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "Pantry"
+      }
+    ],
+    "steps": [
+      "Heat the oven to 210°C. Toss the tomatoes and garlic with olive oil and roast for 20 minutes.",
+      "Cook the pasta in salted water, reserving a mug of the cooking water.",
+      "Crush the roasted tomatoes. Toss with the pasta, ricotta and a splash of the reserved water. Finish with torn basil."
+    ]
+  },
+  {
+    "id": "ginger-tofu-bowls",
+    "title": "Ginger tofu rice bowls",
+    "description": "Crisp tofu, crunchy greens and a quick ginger dressing.",
+    "servings": 2,
+    "minutes": 30,
+    "cost": 360,
+    "protein_type": "vegan",
+    "art": "rice",
+    "tags": [
+      "Plant based",
+      "High protein"
+    ],
+    "allergens": [
+      "soy",
+      "gluten",
+      "sesame"
+    ],
+    "equipment": [
+      "hob"
+    ],
+    "ingredients": [
+      {
+        "name": "Firm tofu",
+        "quantity": 300,
+        "unit": "g",
+        "category": "Chilled"
+      },
+      {
+        "name": "Rice",
+        "quantity": 150,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Broccoli",
+        "quantity": 250,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Carrot",
+        "quantity": 1,
+        "unit": "each",
+        "category": "Produce"
+      },
+      {
+        "name": "Soy sauce",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "Ginger",
+        "quantity": 15,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Sesame oil",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "Pantry"
+      }
+    ],
+    "steps": [
+      "Cook the rice. Cut the tofu into cubes and pat dry. Grate the ginger and slice the carrot.",
+      "Pan-fry the tofu in a little oil until golden. Steam the broccoli until just tender.",
+      "Combine the soy sauce, ginger and sesame oil with a tablespoon of water. Toss through the tofu and serve with rice and vegetables."
+    ]
+  },
+  {
+    "id": "salmon-couscous",
+    "title": "Herby salmon & couscous",
+    "description": "Flaky salmon with lemony couscous and a crunchy cucumber salad.",
+    "servings": 2,
+    "minutes": 25,
+    "cost": 650,
+    "protein_type": "fish",
+    "art": "fish",
+    "tags": [
+      "High protein",
+      "Quick"
+    ],
+    "allergens": [
+      "fish",
+      "gluten"
+    ],
+    "equipment": [
+      "hob"
+    ],
+    "ingredients": [
+      {
+        "name": "Salmon fillets",
+        "quantity": 300,
+        "unit": "g",
+        "category": "Meat & fish"
+      },
+      {
+        "name": "Couscous",
+        "quantity": 150,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Cucumber",
+        "quantity": 1,
+        "unit": "each",
+        "category": "Produce"
+      },
+      {
+        "name": "Lemon",
+        "quantity": 1,
+        "unit": "each",
+        "category": "Produce"
+      },
+      {
+        "name": "Parsley",
+        "quantity": 15,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Olive oil",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "Pantry"
+      }
+    ],
+    "steps": [
+      "Cover the couscous with boiling water as directed on the packet. Cover and leave to stand.",
+      "Pan-fry the salmon in olive oil for 4–5 minutes per side, until cooked through.",
+      "Fluff the couscous and mix with chopped cucumber, parsley and lemon juice. Serve with the salmon."
+    ]
+  },
+  {
+    "id": "black-bean-tacos",
+    "title": "Smoky black bean tacos",
+    "description": "Soft tacos piled with smoky beans, crunchy slaw and avocado.",
+    "servings": 2,
+    "minutes": 20,
+    "cost": 320,
+    "protein_type": "vegan",
+    "art": "tacos",
+    "tags": [
+      "Quick",
+      "Plant based"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "equipment": [
+      "hob"
+    ],
+    "ingredients": [
+      {
+        "name": "Black beans",
+        "quantity": 400,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Tortillas",
+        "quantity": 6,
+        "unit": "each",
+        "category": "Pantry"
+      },
+      {
+        "name": "Avocado",
+        "quantity": 1,
+        "unit": "each",
+        "category": "Produce"
+      },
+      {
+        "name": "Red cabbage",
+        "quantity": 150,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Lime",
+        "quantity": 1,
+        "unit": "each",
+        "category": "Produce"
+      },
+      {
+        "name": "Smoked paprika",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "Ground cumin",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "Pantry"
+      }
+    ],
+    "steps": [
+      "Warm the drained beans with the paprika, cumin and a splash of water for 8 minutes. Mash some of the beans to thicken.",
+      "Shred the cabbage and toss with lime juice and a pinch of salt. Slice the avocado.",
+      "Warm the tortillas in a dry pan. Fill with beans, cabbage and avocado."
+    ]
+  },
+  {
+    "id": "beef-broccoli",
+    "title": "Beef & broccoli stir-fry",
+    "description": "A fast pan of ginger beef and broccoli with a glossy soy sauce.",
+    "servings": 2,
+    "minutes": 25,
+    "cost": 520,
+    "protein_type": "beef",
+    "art": "rice",
+    "tags": [
+      "High protein",
+      "Quick"
+    ],
+    "allergens": [
+      "soy",
+      "gluten"
+    ],
+    "equipment": [
+      "hob"
+    ],
+    "ingredients": [
+      {
+        "name": "Beef strips",
+        "quantity": 300,
+        "unit": "g",
+        "category": "Meat & fish"
+      },
+      {
+        "name": "Broccoli",
+        "quantity": 250,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Rice",
+        "quantity": 150,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Soy sauce",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "Ginger",
+        "quantity": 15,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Garlic",
+        "quantity": 2,
+        "unit": "clove",
+        "category": "Produce"
+      },
+      {
+        "name": "Cornflour",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "Pantry"
+      }
+    ],
+    "steps": [
+      "Cook the rice. Mix soy sauce, cornflour and 80 ml of water.",
+      "Sear the beef strips in a hot, lightly oiled pan. Remove, then stir-fry the broccoli with a splash of water until tender.",
+      "Add grated ginger and crushed garlic. Return the beef, pour in the sauce and cook until hot and thickened. Serve with rice."
+    ]
+  },
+  {
+    "id": "lentil-bolognese",
+    "title": "Slow-simmer lentil bolognese",
+    "description": "A rich tomato and lentil sauce for a comforting bowl of spaghetti.",
+    "servings": 2,
+    "minutes": 35,
+    "cost": 240,
+    "protein_type": "vegan",
+    "art": "pasta",
+    "tags": [
+      "Budget friendly",
+      "Plant based"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "equipment": [
+      "hob"
+    ],
+    "ingredients": [
+      {
+        "name": "Spaghetti",
+        "quantity": 180,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Brown lentils",
+        "quantity": 400,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Chopped tomatoes",
+        "quantity": 400,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Carrot",
+        "quantity": 1,
+        "unit": "each",
+        "category": "Produce"
+      },
+      {
+        "name": "Onion",
+        "quantity": 1,
+        "unit": "each",
+        "category": "Produce"
+      },
+      {
+        "name": "Garlic",
+        "quantity": 2,
+        "unit": "clove",
+        "category": "Produce"
+      },
+      {
+        "name": "Dried oregano",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "Pantry"
+      }
+    ],
+    "steps": [
+      "Finely chop the onion and carrot. Soften in a little oil for 8 minutes, then add crushed garlic and oregano.",
+      "Add drained lentils and tomatoes. Simmer gently for 20 minutes, adding water if needed.",
+      "Cook the spaghetti in salted water. Toss with the sauce and season to taste."
+    ]
+  },
+  {
+    "id": "halloumi-grain-salad",
+    "title": "Golden halloumi grain salad",
+    "description": "Warm couscous, crisp cucumber and golden halloumi with a lemon dressing.",
+    "servings": 2,
+    "minutes": 20,
+    "cost": 440,
+    "protein_type": "vegetarian",
+    "art": "salad",
+    "tags": [
+      "Vegetarian",
+      "Quick"
+    ],
+    "allergens": [
+      "milk",
+      "gluten"
+    ],
+    "equipment": [
+      "hob"
+    ],
+    "ingredients": [
+      {
+        "name": "Halloumi",
+        "quantity": 200,
+        "unit": "g",
+        "category": "Chilled"
+      },
+      {
+        "name": "Couscous",
+        "quantity": 120,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Cucumber",
+        "quantity": 1,
+        "unit": "each",
+        "category": "Produce"
+      },
+      {
+        "name": "Cherry tomatoes",
+        "quantity": 200,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Lemon",
+        "quantity": 1,
+        "unit": "each",
+        "category": "Produce"
+      },
+      {
+        "name": "Parsley",
+        "quantity": 15,
+        "unit": "g",
+        "category": "Produce"
+      }
+    ],
+    "steps": [
+      "Prepare the couscous with boiling water according to the packet. Chop the cucumber, tomatoes and parsley.",
+      "Slice the halloumi and cook in a dry non-stick pan until golden on both sides.",
+      "Mix the couscous and vegetables with lemon juice and a little olive oil. Top with halloumi."
+    ]
+  },
+  {
+    "id": "chicken-fajitas",
+    "title": "Weeknight chicken fajitas",
+    "description": "Sizzling chicken and capsicum with warm wraps and lime.",
+    "servings": 2,
+    "minutes": 25,
+    "cost": 450,
+    "protein_type": "chicken",
+    "art": "tacos",
+    "tags": [
+      "High protein",
+      "Quick"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "equipment": [
+      "hob"
+    ],
+    "ingredients": [
+      {
+        "name": "Chicken breast",
+        "quantity": 350,
+        "unit": "g",
+        "category": "Meat & fish"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": 2,
+        "unit": "each",
+        "category": "Produce"
+      },
+      {
+        "name": "Onion",
+        "quantity": 1,
+        "unit": "each",
+        "category": "Produce"
+      },
+      {
+        "name": "Tortillas",
+        "quantity": 6,
+        "unit": "each",
+        "category": "Pantry"
+      },
+      {
+        "name": "Lime",
+        "quantity": 1,
+        "unit": "each",
+        "category": "Produce"
+      },
+      {
+        "name": "Smoked paprika",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "Ground cumin",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "Pantry"
+      }
+    ],
+    "steps": [
+      "Slice the chicken, capsicum and onion. Coat with the spices and a little oil.",
+      "Cook the chicken in a hot pan until cooked through. Add the vegetables and cook until tender.",
+      "Warm the tortillas. Fill with chicken and vegetables and squeeze over the lime."
+    ]
+  },
+  {
+    "id": "sweet-potato-chilli",
+    "title": "Sweet potato & bean chilli",
+    "description": "A generous pot of smoky vegetables and kidney beans, perfect for leftovers.",
+    "servings": 2,
+    "minutes": 40,
+    "cost": 270,
+    "protein_type": "vegan",
+    "art": "curry",
+    "tags": [
+      "Budget friendly",
+      "One pot"
+    ],
+    "allergens": [],
+    "equipment": [
+      "hob"
+    ],
+    "ingredients": [
+      {
+        "name": "Sweet potato",
+        "quantity": 400,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Kidney beans",
+        "quantity": 400,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Chopped tomatoes",
+        "quantity": 400,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Onion",
+        "quantity": 1,
+        "unit": "each",
+        "category": "Produce"
+      },
+      {
+        "name": "Rice",
+        "quantity": 120,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Smoked paprika",
+        "quantity": 2,
+        "unit": "tsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "Ground cumin",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "Pantry"
+      }
+    ],
+    "steps": [
+      "Dice the sweet potato and onion. Soften the onion in a little oil, then add the spices.",
+      "Add sweet potato, tomatoes and 200 ml water. Simmer covered for 20 minutes.",
+      "Add drained kidney beans and simmer until the sweet potato is tender. Serve with cooked rice."
+    ]
+  },
+  {
+    "id": "mushroom-pea-risotto",
+    "title": "Mushroom & pea risotto",
+    "description": "Creamy rice, golden mushrooms and sweet green peas.",
+    "servings": 2,
+    "minutes": 35,
+    "cost": 350,
+    "protein_type": "vegetarian",
+    "art": "rice",
+    "tags": [
+      "Comfort food",
+      "Vegetarian"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "equipment": [
+      "hob"
+    ],
+    "ingredients": [
+      {
+        "name": "Arborio rice",
+        "quantity": 160,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Mushrooms",
+        "quantity": 250,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Frozen peas",
+        "quantity": 150,
+        "unit": "g",
+        "category": "Frozen"
+      },
+      {
+        "name": "Onion",
+        "quantity": 1,
+        "unit": "each",
+        "category": "Produce"
+      },
+      {
+        "name": "Vegetable stock",
+        "quantity": 650,
+        "unit": "ml",
+        "category": "Pantry"
+      },
+      {
+        "name": "Parmesan",
+        "quantity": 30,
+        "unit": "g",
+        "category": "Chilled"
+      },
+      {
+        "name": "Butter",
+        "quantity": 20,
+        "unit": "g",
+        "category": "Chilled"
+      }
+    ],
+    "steps": [
+      "Keep the stock warm. Slice the mushrooms and cook in half the butter until golden; set aside.",
+      "Soften the chopped onion in the remaining butter. Stir in the rice, then add warm stock a ladle at a time, stirring regularly.",
+      "When the rice is tender, stir in mushrooms, peas and Parmesan. Heat through and season."
+    ]
+  },
+  {
+    "id": "pesto-chicken-orzo",
+    "title": "Pesto chicken orzo",
+    "description": "A little green pesto, tender chicken and a panful of comforting orzo.",
+    "servings": 2,
+    "minutes": 30,
+    "cost": 470,
+    "protein_type": "chicken",
+    "art": "pasta",
+    "tags": [
+      "One pot",
+      "High protein"
+    ],
+    "allergens": [
+      "gluten",
+      "milk",
+      "nuts"
+    ],
+    "equipment": [
+      "hob"
+    ],
+    "ingredients": [
+      {
+        "name": "Chicken breast",
+        "quantity": 350,
+        "unit": "g",
+        "category": "Meat & fish"
+      },
+      {
+        "name": "Orzo",
+        "quantity": 160,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Basil pesto",
+        "quantity": 50,
+        "unit": "g",
+        "category": "Chilled"
+      },
+      {
+        "name": "Cherry tomatoes",
+        "quantity": 200,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Baby spinach",
+        "quantity": 80,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Vegetable stock",
+        "quantity": 450,
+        "unit": "ml",
+        "category": "Pantry"
+      }
+    ],
+    "steps": [
+      "Cut the chicken into small pieces. Brown in a little oil in a deep pan.",
+      "Add orzo and stock. Simmer, stirring often, until the orzo is tender and the chicken is cooked through.",
+      "Stir in pesto, halved tomatoes and spinach. Cook for 2 minutes and add a splash of water if needed."
+    ]
+  },
+  {
+    "id": "tuna-sweetcorn-jackets",
+    "title": "Tuna & sweetcorn jackets",
+    "description": "Fluffy baked potatoes topped with tuna, sweetcorn and yoghurt.",
+    "servings": 2,
+    "minutes": 60,
+    "cost": 350,
+    "protein_type": "fish",
+    "art": "tray",
+    "tags": [
+      "Budget friendly",
+      "High protein"
+    ],
+    "allergens": [
+      "fish",
+      "milk"
+    ],
+    "equipment": [
+      "oven"
+    ],
+    "ingredients": [
+      {
+        "name": "Potatoes",
+        "quantity": 600,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Tinned tuna",
+        "quantity": 185,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Sweetcorn",
+        "quantity": 150,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Greek yoghurt",
+        "quantity": 80,
+        "unit": "g",
+        "category": "Chilled"
+      },
+      {
+        "name": "Spring onion",
+        "quantity": 2,
+        "unit": "each",
+        "category": "Produce"
+      }
+    ],
+    "steps": [
+      "Heat the oven to 220°C. Prick the potatoes and bake until soft in the centre, about 50–60 minutes.",
+      "Mix drained tuna and sweetcorn with yoghurt and sliced spring onion. Season to taste.",
+      "Split the potatoes, fluff the insides with a fork and spoon over the topping."
+    ]
+  },
+  {
+    "id": "peanut-noodles",
+    "title": "Crunchy peanut noodles",
+    "description": "Noodles, colourful vegetables and a creamy peanut-lime sauce.",
+    "servings": 2,
+    "minutes": 20,
+    "cost": 290,
+    "protein_type": "vegan",
+    "art": "pasta",
+    "tags": [
+      "Plant based",
+      "Quick"
+    ],
+    "allergens": [
+      "peanuts",
+      "soy",
+      "gluten"
+    ],
+    "equipment": [
+      "hob"
+    ],
+    "ingredients": [
+      {
+        "name": "Noodles",
+        "quantity": 180,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Peanut butter",
+        "quantity": 40,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Carrot",
+        "quantity": 1,
+        "unit": "each",
+        "category": "Produce"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": 1,
+        "unit": "each",
+        "category": "Produce"
+      },
+      {
+        "name": "Soy sauce",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "Lime",
+        "quantity": 1,
+        "unit": "each",
+        "category": "Produce"
+      },
+      {
+        "name": "Frozen peas",
+        "quantity": 100,
+        "unit": "g",
+        "category": "Frozen"
+      }
+    ],
+    "steps": [
+      "Cook the noodles, adding peas for the final minute. Drain, reserving a little cooking water.",
+      "Whisk peanut butter, soy sauce, lime juice and warm cooking water into a smooth sauce.",
+      "Thinly slice the carrot and capsicum. Toss with the warm noodles and sauce."
+    ]
+  },
+  {
+    "id": "tomato-white-bean-soup",
+    "title": "Tomato & white bean soup",
+    "description": "A cosy tomato soup with creamy beans and crusty bread.",
+    "servings": 2,
+    "minutes": 25,
+    "cost": 230,
+    "protein_type": "vegan",
+    "art": "soup",
+    "tags": [
+      "Budget friendly",
+      "One pot"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "equipment": [
+      "hob"
+    ],
+    "ingredients": [
+      {
+        "name": "Cannellini beans",
+        "quantity": 400,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Chopped tomatoes",
+        "quantity": 400,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Vegetable stock",
+        "quantity": 400,
+        "unit": "ml",
+        "category": "Pantry"
+      },
+      {
+        "name": "Onion",
+        "quantity": 1,
+        "unit": "each",
+        "category": "Produce"
+      },
+      {
+        "name": "Carrot",
+        "quantity": 1,
+        "unit": "each",
+        "category": "Produce"
+      },
+      {
+        "name": "Bread",
+        "quantity": 4,
+        "unit": "slice",
+        "category": "Pantry"
+      },
+      {
+        "name": "Dried oregano",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "Pantry"
+      }
+    ],
+    "steps": [
+      "Chop the onion and carrot. Soften in a little oil for 6 minutes.",
+      "Add drained beans, tomatoes, stock and oregano. Simmer for 15 minutes.",
+      "Mash a few beans to thicken the soup. Season and serve with toasted bread."
+    ]
+  },
+  {
+    "id": "spinach-feta-frittata",
+    "title": "Spinach & feta frittata",
+    "description": "A golden frittata with soft potatoes and salty feta.",
+    "servings": 2,
+    "minutes": 30,
+    "cost": 330,
+    "protein_type": "vegetarian",
+    "art": "tray",
+    "tags": [
+      "Vegetarian",
+      "High protein"
+    ],
+    "allergens": [
+      "eggs",
+      "milk"
+    ],
+    "equipment": [
+      "hob",
+      "oven"
+    ],
+    "ingredients": [
+      {
+        "name": "Eggs",
+        "quantity": 6,
+        "unit": "each",
+        "category": "Chilled"
+      },
+      {
+        "name": "Baby spinach",
+        "quantity": 100,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Feta",
+        "quantity": 80,
+        "unit": "g",
+        "category": "Chilled"
+      },
+      {
+        "name": "Potatoes",
+        "quantity": 300,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Milk",
+        "quantity": 50,
+        "unit": "ml",
+        "category": "Chilled"
+      }
+    ],
+    "steps": [
+      "Heat the oven to 190°C. Thinly slice the potatoes and cook in a lightly oiled ovenproof pan until tender.",
+      "Whisk eggs and milk, then stir in spinach and crumbled feta. Pour over the potatoes.",
+      "Cook on the hob for 3 minutes, then bake for 12–15 minutes until set throughout."
+    ]
+  },
+  {
+    "id": "beef-bean-bowls",
+    "title": "Beef & bean burrito bowls",
+    "description": "A filling bowl of spiced beef, beans, rice and fresh tomato.",
+    "servings": 2,
+    "minutes": 30,
+    "cost": 460,
+    "protein_type": "beef",
+    "art": "rice",
+    "tags": [
+      "High protein",
+      "Family favourite"
+    ],
+    "allergens": [],
+    "equipment": [
+      "hob"
+    ],
+    "ingredients": [
+      {
+        "name": "Beef mince",
+        "quantity": 250,
+        "unit": "g",
+        "category": "Meat & fish"
+      },
+      {
+        "name": "Black beans",
+        "quantity": 400,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Rice",
+        "quantity": 150,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Tomatoes",
+        "quantity": 2,
+        "unit": "each",
+        "category": "Produce"
+      },
+      {
+        "name": "Lime",
+        "quantity": 1,
+        "unit": "each",
+        "category": "Produce"
+      },
+      {
+        "name": "Ground cumin",
+        "quantity": 2,
+        "unit": "tsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "Smoked paprika",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "Pantry"
+      }
+    ],
+    "steps": [
+      "Cook the rice. Brown the beef mince in a frying pan, breaking it up as it cooks.",
+      "Add cumin, paprika, drained beans and a splash of water. Simmer for 8 minutes.",
+      "Dice the tomatoes and mix with lime juice. Serve the beef and beans over rice with fresh tomatoes."
+    ]
+  },
+  {
+    "id": "coconut-red-lentil-dal",
+    "title": "Coconut red lentil dal",
+    "description": "Soft red lentils with turmeric, ginger and coconut milk.",
+    "servings": 2,
+    "minutes": 30,
+    "cost": 250,
+    "protein_type": "vegan",
+    "art": "curry",
+    "tags": [
+      "Plant based",
+      "One pot"
+    ],
+    "allergens": [],
+    "equipment": [
+      "hob"
+    ],
+    "ingredients": [
+      {
+        "name": "Red lentils",
+        "quantity": 160,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Coconut milk",
+        "quantity": 200,
+        "unit": "ml",
+        "category": "Pantry"
+      },
+      {
+        "name": "Rice",
+        "quantity": 150,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Onion",
+        "quantity": 1,
+        "unit": "each",
+        "category": "Produce"
+      },
+      {
+        "name": "Ginger",
+        "quantity": 15,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Turmeric",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "Baby spinach",
+        "quantity": 80,
+        "unit": "g",
+        "category": "Produce"
+      }
+    ],
+    "steps": [
+      "Rinse the lentils. Soften chopped onion and grated ginger in a little oil. Add turmeric.",
+      "Add lentils, coconut milk and 400 ml water. Simmer gently for 20 minutes, stirring and adding water as needed.",
+      "Stir in spinach until wilted. Season and serve with cooked rice."
+    ]
+  },
+  {
+    "id": "greek-chickpea-salad",
+    "title": "Greek-style chickpea salad",
+    "description": "Crunchy vegetables, chickpeas and feta, ready without the stove.",
+    "servings": 2,
+    "minutes": 15,
+    "cost": 360,
+    "protein_type": "vegetarian",
+    "art": "salad",
+    "tags": [
+      "No cook",
+      "Quick"
+    ],
+    "allergens": [
+      "milk"
+    ],
+    "equipment": [],
+    "ingredients": [
+      {
+        "name": "Chickpeas",
+        "quantity": 400,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Cucumber",
+        "quantity": 1,
+        "unit": "each",
+        "category": "Produce"
+      },
+      {
+        "name": "Tomatoes",
+        "quantity": 2,
+        "unit": "each",
+        "category": "Produce"
+      },
+      {
+        "name": "Feta",
+        "quantity": 100,
+        "unit": "g",
+        "category": "Chilled"
+      },
+      {
+        "name": "Olives",
+        "quantity": 50,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Lemon",
+        "quantity": 1,
+        "unit": "each",
+        "category": "Produce"
+      },
+      {
+        "name": "Olive oil",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "Pantry"
+      }
+    ],
+    "steps": [
+      "Drain and rinse the chickpeas. Chop the cucumber and tomatoes into bite-sized pieces.",
+      "Combine the vegetables, chickpeas and olives in a bowl. Crumble over the feta.",
+      "Dress with lemon juice and olive oil. Season and toss gently before serving."
+    ]
+  },
+  {
+    "id": "chicken-fried-rice",
+    "title": "Chicken & vegetable fried rice",
+    "description": "A quick family favourite with chicken, egg and plenty of vegetables.",
+    "servings": 2,
+    "minutes": 25,
+    "cost": 390,
+    "protein_type": "chicken",
+    "art": "rice",
+    "tags": [
+      "High protein",
+      "Family favourite"
+    ],
+    "allergens": [
+      "eggs",
+      "soy",
+      "gluten"
+    ],
+    "equipment": [
+      "hob"
+    ],
+    "ingredients": [
+      {
+        "name": "Chicken breast",
+        "quantity": 300,
+        "unit": "g",
+        "category": "Meat & fish"
+      },
+      {
+        "name": "Rice",
+        "quantity": 150,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Eggs",
+        "quantity": 2,
+        "unit": "each",
+        "category": "Chilled"
+      },
+      {
+        "name": "Frozen peas",
+        "quantity": 150,
+        "unit": "g",
+        "category": "Frozen"
+      },
+      {
+        "name": "Carrot",
+        "quantity": 1,
+        "unit": "each",
+        "category": "Produce"
+      },
+      {
+        "name": "Soy sauce",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "Spring onion",
+        "quantity": 2,
+        "unit": "each",
+        "category": "Produce"
+      }
+    ],
+    "steps": [
+      "Cook the rice and spread on a plate to cool briefly. Dice the chicken and carrot.",
+      "Stir-fry the chicken in a hot, lightly oiled pan until cooked through. Add carrot and peas, and cook until tender.",
+      "Push everything aside and scramble the eggs in the pan. Add rice, soy sauce and sliced spring onion; stir-fry until piping hot."
+    ]
+  },
+  {
+    "id": "roast-veg-couscous",
+    "title": "Roast vegetable couscous",
+    "description": "Golden vegetables over fluffy couscous with lemon and herbs.",
+    "servings": 2,
+    "minutes": 35,
+    "cost": 290,
+    "protein_type": "vegan",
+    "art": "salad",
+    "tags": [
+      "Plant based",
+      "Budget friendly"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "equipment": [
+      "hob",
+      "oven"
+    ],
+    "ingredients": [
+      {
+        "name": "Couscous",
+        "quantity": 150,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Zucchini",
+        "quantity": 1,
+        "unit": "each",
+        "category": "Produce"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": 1,
+        "unit": "each",
+        "category": "Produce"
+      },
+      {
+        "name": "Carrot",
+        "quantity": 2,
+        "unit": "each",
+        "category": "Produce"
+      },
+      {
+        "name": "Chickpeas",
+        "quantity": 400,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Lemon",
+        "quantity": 1,
+        "unit": "each",
+        "category": "Produce"
+      },
+      {
+        "name": "Olive oil",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "Pantry"
+      }
+    ],
+    "steps": [
+      "Heat the oven to 210°C. Chop the vegetables into similar-sized pieces. Toss with oil and roast for 25 minutes.",
+      "Add drained chickpeas to the tray for the final 10 minutes. Prepare the couscous according to the packet.",
+      "Combine couscous, vegetables and chickpeas. Dress with lemon juice and season."
+    ]
+  },
+  {
+    "id": "egg-tomato-skillet",
+    "title": "Tomato & egg skillet",
+    "description": "Gently baked eggs in a rich, smoky tomato sauce.",
+    "servings": 2,
+    "minutes": 25,
+    "cost": 300,
+    "protein_type": "vegetarian",
+    "art": "soup",
+    "tags": [
+      "One pan",
+      "Budget friendly"
+    ],
+    "allergens": [
+      "eggs",
+      "gluten"
+    ],
+    "equipment": [
+      "hob"
+    ],
+    "ingredients": [
+      {
+        "name": "Eggs",
+        "quantity": 4,
+        "unit": "each",
+        "category": "Chilled"
+      },
+      {
+        "name": "Chopped tomatoes",
+        "quantity": 400,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": 1,
+        "unit": "each",
+        "category": "Produce"
+      },
+      {
+        "name": "Onion",
+        "quantity": 1,
+        "unit": "each",
+        "category": "Produce"
+      },
+      {
+        "name": "Smoked paprika",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "Bread",
+        "quantity": 4,
+        "unit": "slice",
+        "category": "Pantry"
+      }
+    ],
+    "steps": [
+      "Dice the onion and capsicum. Soften in a lidded frying pan with a little oil for 6 minutes.",
+      "Add paprika and tomatoes. Simmer for 8 minutes, then make four small wells in the sauce.",
+      "Crack an egg into each well. Cover and cook gently until the eggs are set to your liking. Serve with bread."
+    ]
+  },
+  {
+    "id": "miso-mushroom-noodles",
+    "title": "Miso mushroom noodles",
+    "description": "Savoury noodles with golden mushrooms and bright green broccoli.",
+    "servings": 2,
+    "minutes": 20,
+    "cost": 340,
+    "protein_type": "vegan",
+    "art": "pasta",
+    "tags": [
+      "Plant based",
+      "Quick"
+    ],
+    "allergens": [
+      "soy",
+      "gluten",
+      "sesame"
+    ],
+    "equipment": [
+      "hob"
+    ],
+    "ingredients": [
+      {
+        "name": "Noodles",
+        "quantity": 180,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Mushrooms",
+        "quantity": 250,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Broccoli",
+        "quantity": 200,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Miso paste",
+        "quantity": 25,
+        "unit": "g",
+        "category": "Pantry"
+      },
+      {
+        "name": "Soy sauce",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "Sesame oil",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "Spring onion",
+        "quantity": 2,
+        "unit": "each",
+        "category": "Produce"
+      }
+    ],
+    "steps": [
+      "Cook the noodles, adding broccoli for the final 3 minutes. Reserve a mug of cooking water and drain.",
+      "Slice the mushrooms and fry in a little oil until golden. Mix miso, soy sauce and sesame oil with a splash of cooking water.",
+      "Toss noodles and broccoli with the mushrooms and sauce. Finish with sliced spring onion."
+    ]
+  }
+]

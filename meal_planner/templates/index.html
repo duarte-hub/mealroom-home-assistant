@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#244b3e">
+  <meta name="csrf-token" content="{{ csrf }}">
+  <title>Mealroom · A little less planning</title>
+  <link rel="icon" href="static/icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="static/styles.css">
+  <script src="static/app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <div class="shell">
+    <aside class="sidebar">
+      <a class="brand" href="#plan"><img src="static/icon.svg" alt="" width="38" height="38"><span>mealroom<span class="brand-dot">.</span></span></a>
+      <div class="sidebar-label">A LITTLE LESS PLANNING</div>
+      <nav id="navigation" aria-label="Main navigation"></nav>
+      <div class="sidebar-bottom"><div class="local-dot"></div><span>Your kitchen, your data.<br><small>Stored locally at home</small></span></div>
+    </aside>
+    <div class="workspace">
+      <header class="topbar"><div id="kitchen-name">Our kitchen</div><div class="topbar-right"><span class="home-badge">HOME ASSISTANT READY</span><button class="icon-button" data-action="refresh" aria-label="Refresh household data" title="Refresh">↻</button><span class="avatar" aria-hidden="true">K</span></div></header>
+      <main id="main" tabindex="-1"><div class="loading"><div class="loading-seed"></div><p>Getting your kitchen ready…</p></div></main>
+      <footer class="page-footer"><span>Made for real life. And real kitchens.</span><span>Mealroom · local & independent</span></footer>
+    </div>
+  </div>
+  <dialog id="modal" aria-label="Recipe or kitchen options"><div id="modal-content"></div></dialog>
+  <div id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>

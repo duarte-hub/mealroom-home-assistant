@@ -1,0 +1,11 @@
+.venv/
+**/__pycache__/
+*.pyc
+data/
+.DS_Store
+.pytest_cache/
+# Analysis contains third-party packaged data; never publish it with the app.
+mise-analysis/
+dist/
+test-results/
+*.sqlite3*

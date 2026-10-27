@@ -1,0 +1,13 @@
+services:
+  mealroom:
+    build: ./meal_planner
+    container_name: mealroom
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:8099:8099"
+    environment:
+      TZ: Australia/Brisbane
+    volumes:
+      - mealroom-data:/data
+volumes:
+  mealroom-data:
